@@ -20,7 +20,7 @@ The table below shows the number of triplets corresponding to different entity p
 | \(Gene, Disease\)      | 775,705 | \- |      \- | \-      |     \- | 775,705     |
 | \(Chemical, Gene\)         | 334,073 | \- | 345,134 | 7,264 | \-     | 686,471       |
 | \(Chemical, Disease\)   | 597,540 | \-     | \-       | \-      | 21,227 | 618,767        |
-| <img width=100/>\(Chemical, Chemical\) | \-   | 50,765 | \-   | \-      | \-     | 50,765      |
+| <div style="width:150">\(Chemical, Chemical\)</div> | \-   | 50,765 | \-   | \-      | \-     | 50,765      |
 | Total                                 | 2,970,883 | 50,765 | 345,134 |    7,264 | 21,227 | 3,395,273   |
 
 ## MBKG embedding
