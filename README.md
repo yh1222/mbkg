@@ -15,7 +15,7 @@ Microgravity in the space environment can potentially have various negative effe
 The table below shows the number of triplets corresponding to different entity pair types in MBKG from various data sources.
 
 | Entity pair types  | Text Mining & GNBR | DDInter | STITCH | DrugBank | TCMID | Total interactions |
-|:--------------------------------------|-----------:|-------:|---------:|--------:|-------:|-------------------:|
+|:-------------------------------------------|-----------:|-------:|---------:|--------:|-------:|-------------------:|
 | \(Gene, Gene\)                    | 1,263,565 | \- | \- | \- | \- | 1,263,565  |
 | \(Gene, Disease\)      | 775,705 | \- |      \- | \-      |     \- | 775,705     |
 | \(Chemical, Gene\)         | 334,073 | \- | 345,134 | 7,264 | \-     | 686,471       |
